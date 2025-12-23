@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Let Me Down Slowly",
+  "base_artist": "Alec Benjamin",
+  "createdAt": "2025-12-23T17:34:03.637542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/01_Let_Me_Down_Slowly_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "let me down slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/02_let_me_down_slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/03_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Trapt",
+      "has_synced": false,
+      "path": "select/04_Let_Me_Down_Slowly_Trapt.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/05_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "J.Fla",
+      "has_synced": true,
+      "path": "select/06_Let_Me_Down_Slowly_J.Fla.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/07_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/08_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/09_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/10_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/11_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Pop",
+      "has_synced": true,
+      "path": "select/12_Let_Me_Down_Slowly_Pop.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/13_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/14_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/15_Let_Me_Down_Slowly_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Alec Benjamin - Let Me Down Slowly",
+      "artist": "LatinHype",
+      "has_synced": true,
+      "path": "select/16_Alec_Benjamin_-_Let_Me_Down_Slowly_LatinHype.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let Me Down Slowly",
+      "artist": "Alec Benjamin",
+      "has_synced": false,
+      "path": "select/pl_01_Let_Me_Down_Slowly_Alec_Benjamin.txt"
+    }
+  ]
+}
